@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laborator11curs", "Laborator11curs\Laborator11curs.csproj", "{D0F5148D-093B-461B-8568-0F346AB4174C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfacesdll", "Interfacesdll\Interfacesdll.csproj", "{EDB85570-52A6-4C27-996A-FDE45E302610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F5148D-093B-461B-8568-0F346AB4174C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F5148D-093B-461B-8568-0F346AB4174C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F5148D-093B-461B-8568-0F346AB4174C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F5148D-093B-461B-8568-0F346AB4174C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB85570-52A6-4C27-996A-FDE45E302610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB85570-52A6-4C27-996A-FDE45E302610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB85570-52A6-4C27-996A-FDE45E302610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB85570-52A6-4C27-996A-FDE45E302610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC30297D-4EF9-49E9-9385-1D8DF79E168A}
+	EndGlobalSection
+EndGlobal
